@@ -12,6 +12,8 @@ This project demonstrates how to:
 4. Communicate between Flutter and native code using method channels
 5. Update the texture dynamically (changing colors)
 
+<img src="https://raw.githubusercontent.com/Werror/Flutter_texture_ios_sample/refs/heads/main/screenshot.jpg" width="400">
+
 ## Architecture
 
 The project follows a clean architecture with separation of concerns:
