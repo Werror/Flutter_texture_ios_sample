@@ -10,7 +10,7 @@ This project demonstrates how to:
 2. Register the texture with Flutter's texture registry
 3. Display the texture in a Flutter app using the `Texture` widget
 4. Communicate between Flutter and native code using method channels
-5. Update the texture dynamically (changing colors)
+5. Update the texture dynamically (changing colors) by access CVPixelBuffer directly
 
 <img src="https://raw.githubusercontent.com/Werror/Flutter_texture_ios_sample/refs/heads/main/screenshot.jpg" width="400">
 
